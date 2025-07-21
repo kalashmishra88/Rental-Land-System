@@ -1,0 +1,5 @@
+101,Kathmandu,North,4,50000,NotAvailable,4
+102,Pokhara,East,5,60000,Available,5
+103,Lalitpur,South,10,100000,NotAvailable,10
+104,Bhaktapur,West,11,110000,Available,11
+105,Biratnagar,East,15,200000,Available,15
